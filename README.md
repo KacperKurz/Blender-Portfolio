@@ -52,7 +52,7 @@
 <!-- CONTACT -->
 ## Contact
 
-Your Name - kacperkurz@protonmail.com
+E-mail - kacperkurz@protonmail.com
 
 Project Link: [https://github.com/KacperKurz/Blender-Portfolio](https://github.com/KacperKurz/Blender-Portfolio)
 
