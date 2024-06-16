@@ -43,6 +43,9 @@
 ![](renders/rubikscube.png)
 ![](renders/snowman.png)
 ![](renders/sword.png)
+![](renders/kubek.png)
+![](renders/gruszka.png)
+![](renders/5zł.png)
 
 
 
